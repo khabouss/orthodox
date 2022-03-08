@@ -2,11 +2,18 @@
 Create a class in othodox canonical form with one line.
 This program can help you through out your c++ pool in 42
 
-# step 1
+## SETUP?
+write the following in your terminal:
+```
 git clone https:://github.com/khabouss/orthodox
-
-# step 2
 cd orthodox
-
-# step 3
 source setup.sh
+```
+
+## HOW?
+You can create a new class with this simple command:
+```
+othoodox ClassName HEAD_PROTECTION
+```
+
+ENJooooy :D
